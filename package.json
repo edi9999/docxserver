@@ -9,7 +9,7 @@
   "author": "",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "docxtemplater": "*",
+    "docxtemplater": "~1.0.0",
     "express": "~3.4.8",
     "mime": "~1.2.11"
   }
