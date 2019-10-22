@@ -10,7 +10,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "docxtemplater": "~1.0.0",
-    "express": "~3.4.8",
+    "express": "~4.17.1",
     "mime": "~1.2.11"
   }
 }
